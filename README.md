@@ -12,6 +12,7 @@
 
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asiyya-elbouhali)    
 
+<div>   https://api.github.com/repos/asiyya-elbouhali/REPO/stats/code_frequency </div>
 
 ## Education
 <div>
