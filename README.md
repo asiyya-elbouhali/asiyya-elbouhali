@@ -12,6 +12,7 @@
 
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asiyya-elbouhali)    
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=asiyya-elbouhali&show_icons=true&theme=aura"> 
 
 
 ## Education
