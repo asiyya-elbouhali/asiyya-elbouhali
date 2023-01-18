@@ -13,4 +13,3 @@
   </a>
 </div>
 
-![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
