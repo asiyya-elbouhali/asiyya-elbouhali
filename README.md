@@ -6,6 +6,9 @@
    <a href='https://www.linkedin.com/in/asiyya-elbouhali-287b9b135/'>
          <img src='https://brandlogos.net/wp-content/uploads/2020/11/linkedin-logo-768x768.png' style='width:100px'>
   </a>
+   <a href='https://twitter.com/asiyyaelbouhali'>
+         <img src='https://brandlogos.net/wp-content/uploads/2011/08/twitter-logo-vector.png' style='width:100px'>
+  </a>
 </div>
 
 ## Education
