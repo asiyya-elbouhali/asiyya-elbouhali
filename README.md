@@ -4,7 +4,7 @@
  #
  <div>
    <a href='https://www.linkedin.com/in/asiyya-elbouhali-287b9b135/'>
-         <img src='https://brandlogos.net/wp-content/uploads/2017/01/linkedin-logo-512x512.png' style='width:100px'>
+         <img src='https://brandlogos.net/wp-content/uploads/2020/11/linkedin-logo-768x768.png' style='width:100px'>
   </a>
 </div>
 
