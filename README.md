@@ -10,6 +10,10 @@
   </a>
 </div>
 
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asiyya-elbouhali)    
+
+
+
 ## Education
 <div>
    <a href='https://youcode.ma/'>
