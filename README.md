@@ -1,7 +1,6 @@
 # Hello Devs, I’m @asiyya-elbouhali
-# i'm currently student @youcode-safi
+# i'm currently a full-stack developer student at @youcode-safi
 ## How to reach out to me:
- #
  <div>
    <a href='https://www.linkedin.com/in/asiyya-elbouhali-287b9b135/'>
          <img src='https://brandlogos.net/wp-content/uploads/2020/11/linkedin-logo-768x768.png' style='width:100px'>
